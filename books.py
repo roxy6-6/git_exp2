@@ -1,4 +1,5 @@
-SEARCH_RULE = "category_priority_match"
+SEARCH_RULE = "merged_multi_condition_match"
+
 BOOK_STATUS_RULE = "basic"
 
 

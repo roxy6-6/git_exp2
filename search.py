@@ -1,4 +1,4 @@
-SEARCH_MODE = "basic"
+SEARCH_MODE = "advanced_filter"
 
 
 def search_by_title(title):

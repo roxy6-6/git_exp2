@@ -1,4 +1,4 @@
-USER_PERMISSION_RULE = "reader_only"
+USER_PERMISSION_RULE = "reader_and_admin"
 
 
 def create_user(username, role="reader"):

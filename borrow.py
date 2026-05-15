@@ -1,4 +1,4 @@
-BORROW_AUDIT_RULE = "manual_check"
+BORROW_AUDIT_RULE = "auto_record"
 
 
 def borrow_book(username, book_id):

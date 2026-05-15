@@ -1,4 +1,4 @@
-SEARCH_RULE = "title_exact_match"
+SEARCH_RULE = "title_and_author_fuzzy_match"
 BOOK_STATUS_RULE = "basic"
 
 
